@@ -1,7 +1,7 @@
 # Dacoid-Assignmemt
 
 ## Web Dev Assignment by Dacoid Digital
-- This project is a web development assignment created using HTML and Tailwind CSS.
+- This project is a web development assignment created using HTML, CSS, and JavaScript.
 
 ## Running the Website Locally
 - To run this website locally on your machine, follow these steps:
